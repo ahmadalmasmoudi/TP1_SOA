@@ -18,3 +18,8 @@ Création d'un projet Maven sous IntelliJ IDEA et ajout des dépendances nécess
 
 Utilisation de `SchemaFactory` et `Validator` en Java pour vérifier la conformité du document XML par rapport au schéma XSD.
 ![](captures/4.png)
+
+### Étape 5 – Interrogation XPath
+
+Utilisation de `XPathFactory` et `XPathExpression` en Java pour rechercher et extraire des informations spécifiques à partir du document XML.
+![](captures/6.png)
