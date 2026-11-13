@@ -9,3 +9,8 @@ Choix d'un domaine réel, identification des entités principales et création d
 
 Création d'un fichier XSD permettant de définir la structure et les règles de validation du document XML.
 ![](captures/2.png)
+
+### Étape 3 – Création du projet Maven
+
+Création d'un projet Maven sous IntelliJ IDEA et ajout des dépendances nécessaires dans le fichier `pom.xml`.
+![](captures/3.png)
