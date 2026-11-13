@@ -14,3 +14,7 @@ Création d'un fichier XSD permettant de définir la structure et les règles de
 
 Création d'un projet Maven sous IntelliJ IDEA et ajout des dépendances nécessaires dans le fichier `pom.xml`.
 ![](captures/3.png)
+### Étape 4 – Implémentation de la validation XML/XSD
+
+Utilisation de `SchemaFactory` et `Validator` en Java pour vérifier la conformité du document XML par rapport au schéma XSD.
+![](captures/4.png)
