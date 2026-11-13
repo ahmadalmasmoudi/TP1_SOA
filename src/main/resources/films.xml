@@ -1,0 +1,28 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogue>
+    <film id="F1">
+        <titre>Inception</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2010</annee>
+        <genre>Science-fiction</genre>
+        <note>9.0</note>
+    </film>
+
+    <film id="F2">
+        <titre>Interstellar</titre>
+        <realisateur>Christopher Nolan</realisateur>
+        <annee>2014</annee>
+        <genre>Science-fiction</genre>
+        <note>9.2</note>
+    </film>
+
+    <film id="F3">
+        <titre>3 Idiots</titre>
+        <realisateur>Rajkumar Hirani</realisateur>
+        <annee>2009</annee>
+        <genre>Comédie</genre>
+        <note>8.5</note>
+    </film>
+</catalogue>
